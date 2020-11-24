@@ -1,0 +1,4 @@
+com\xiaorui\controller\Login.class
+com\xiaorui\myspringmvc\DispatcherServlet.class
+com\xiaorui\controller\Check.class
+com\xiaorui\domain\AB.class
